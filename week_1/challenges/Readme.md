@@ -1,3 +1,7 @@
+<div align='center'>
+Code-it, Zetech University• Facebook Developers Circle Nairobi at Zetech University
+</div>
+
 # Bus Fare Challenge - Week 1
 
 ## Challenge
@@ -11,10 +15,11 @@ Write a program that does the following:
    - monday - friday --> 100
    - saturday --> 60
    - sunday --> 80
-4. Prints the results in this format  
-    >Date:    2021-01-05  
-    >Day:     Tue  
-    >Fare:    100  
+
+4. Prints the results in this format
+   > Date: 2021-01-05  
+   > Day: Tue  
+   > Fare: 100
 
 ## Evaluation
 
@@ -22,10 +27,10 @@ Run the [Checker](checker.py) file to evaluate your code. If all tests pass, you
 
 ## Note
 
-1. Your solution must be written in the [bus_fare_challenge](bus_fare_challenge.py) file and its name should never be changed.  
+1. Your solution must be written in the [bus_fare_challenge](bus_fare_challenge.py) file and its name should never be changed.
 2. Your program must make use of the following variable names:
    - `'date'`
    - `'day'`
    - `'fare'`  
-*Failure to which all your tests will fail.*  
+     _Failure to which all your tests will fail._
 3. The **Checker** file should **never** be **altered** at any cost.
