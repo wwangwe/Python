@@ -10,23 +10,23 @@ Code-it, Zetech University• Facebook Developers Circle Nairobi at Zetech Unive
 
 ## 5 Weeks Of Python (Roadmap)
 
-- [Week 1](Week_1/Readme.md)
+- [Week 1](week_1/Readme.md)
   - Github and Git setup
   - Python setup
   - Python basics
-- [Week 2](Week_2/Readme.md)
+- [Week 2](week_2/Readme.md)
   - Data Structures and JSON
   - Control Structures
   - Functions and Modules
   - Classes and Inheritance
-- [Week 3](Week_3/Readme.md)
+- [Week 3](week_3/Readme.md)
   - Notebooks
   - Pandas
   - Numpy
-- [Week 4](Week_4/Readme.md)
+- [Week 4](week_4/Readme.md)
   - Matplotlib
   - Scikit-learn
-- [Week 5](Week_5/Readme.md)
+- [Week 5](week_5/Readme.md)
   - COMING SOON
 
 ## Setting Up Your Developer Environment
